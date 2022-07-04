@@ -1,0 +1,478 @@
+wordnet hill 109303008	0
+wordnet actor 109765278	1
+wordnet causal agent 100007347	2
+wordnet business 108061042	3
+wikicat Internet companies of the United States	4
+wikicat Organizations established in the 1910s	5
+wordnet winner 110782940	6
+@BlueJacketsNHL what happened??		7
+wikicat Companies based in California	8
+wikicat People from the Providence metropolitan area	9
+wikicat American television actresses	10
+wordnet keyboardist 110229883	11
+wikicat Single-tier municipalities in Ontario	12
+D.C.	13
+wikicat Municipalities	14
+wikicat 20th-century American actors	15
+wikicat Wikipedia categories named after companies of the United States	16
+wikicat Parks in Ottawa	17
+Our thoughts are with everyone in the city of Ottawa today.		18
+wikicat Television actors	19
+wikicat People from New Mexico	20
+wikicat National Historic Sites of Canada	21
+wordnet geological formation 109287968	22
+wikicat Music people	23
+wikicat People associated with the arts	24
+wikicat People from Massachusetts	25
+wikicat Organizations based in New York City	26
+wikicat University towns	27
+wikicat Computer companies	28
+wikicat Epic Records artists	29
+wikicat Entertainers	30
+wordnet capital 108518505	31
+wikicat People from North Dakota	32
+Ottawa	33
+wikicat University towns in Canada	34
+wikicat People associated with buildings and structures	35
+wordnet structure 104341686	36
+wikicat Jewish composers	37
+wikicat People from Tennessee	38
+wikicat Soul singers	39
+wikicat Actors from Pennsylvania	40
+wikicat Computer-related organizations	41
+wikicat Business districts	42
+wikicat People from West Orange	43
+wikicat 20th-century people	44
+wikicat Companies based in the San Francisco Bay Area	45
+wikicat Cities in the Americas	46
+wikicat American women film people	47
+wikicat People from Maine	48
+wikicat American film actresses	49
+wikicat People associated with religion	50
+wikicat American songwriters	51
+wikicat American musicians	52
+wikicat Entertainers from New York	53
+wikicat People from Montana	54
+wikicat Actors from New York	55
+wikicat Artists	56
+wikicat 20th-century American actresses	57
+wikicat Defunct organizations of the United States	58
+wikicat Entertainment organizations	59
+wordnet psychological feature 100023100	60
+wordnet songwriter 110624540	61
+wikicat Technology organizations	62
+wordnet association 108049401	63
+wikicat Capitals	64
+wordnet musician 110340312	65
+wikicat Populated places	66
+wikicat Television people	67
+wikicat People from Arkansas	68
+wordnet singer 110599806	69
+wikicat Hills of North America	70
+wordnet whole 100003553	71
+wikicat Cities in Canada	72
+wikicat People from Indiana	73
+wordnet city district 108537837	74
+wikicat Places	75
+wikicat American people of Southwest Asian descent	76
+wikicat People from Oregon	77
+wikicat Countries in the Americas	78
+wordnet musician 110339966	79
+wikicat Wikipedia categories named after organizations based in the United States	80
+wikicat Urban public parks	81
+wordnet group 100031264	82
+wikicat Populated places in Ontario	83
+wordnet region 108630985	84
+wikicat People of the Americas	85
+wikicat People from Alabama	86
+wikicat Companies based in San Francisco	87
+wikicat People from Pennsylvania	88
+wordnet business district 108539072	89
+wikicat Jewish songwriters	90
+wordnet organism 100004475	91
+wikicat Actors from New York City	92
+wordnet performer 110415638	93
+wikicat Neighborhoods	94
+wikicat American film actors	95
+wordnet female 109619168	96
+wikicat E1 Music artists	97
+wikicat American voice actresses	98
+wordnet enterprise 108056231	99
+wikicat Organizations established in 1917	100
+wikicat Germanic countries and territories	101
+wikicat Capitals in North America	102
+wikicat Jewish American songwriters	103
+wikicat People from Alaska	104
+wikicat Publicly traded companies	105
+wikicat American pop musicians	106
+wikicat 21st-century artists	107
+wikicat Internet companies	108
+wikicat Technology companies of the United States	109
+wikicat American people of Asian descent	110
+wikicat Companies of North America	111
+wikicat Wikipedia categories named after financial services companies of the United States	112
+wikicat Subnational parks	113
+wikicat American female pop singers	114
+wikicat Publicly traded companies of the United States	115
+wikicat Singers	116
+wikicat Populated places established in 1826	117
+wikicat Member states of NATO	118
+wikicat People from Vermont	119
+wikicat People from the Mid-Atlantic states	120
+wikicat Companies listed on the New York Stock Exchange	121
+wordnet municipality 108626283	122
+National Hockey League	123
+wikicat Universal Music Group artists	124
+wikicat Technology companies	125
+wikicat Cities in Ontario	126
+wikicat New media	127
+wordnet artist 109812338	128
+wikicat Populated places in North America	129
+wikicat American session musicians	130
+wikicat Manufacturing companies	131
+wikicat 20th-century artists	132
+wikicat North American musicians	133
+wikicat Organizations based in California	134
+wikicat Organizations based in the San Francisco Bay Area	135
+wikicat Countries in North America	136
+wikicat People from Oklahoma	137
+wikicat Musicians	138
+wikicat People from Wyoming	139
+wikicat Sports leagues in the United States	140
+wikicat EOne Music artists	141
+Twitter	142
+wikicat Jewish folk singers	143
+wikicat Central business districts	144
+yagoGeoEntity	145
+wikicat People from Utah	146
+wikicat People from Delaware	147
+wikicat People from Louisiana	148
+wikicat Jewish singers	149
+wikicat Municipal parks in Ontario	150
+wikicat Sports organisations established in 1917	151
+wikicat Pop musicians	152
+wikicat Parks in Canada	153
+wikicat Federal countries	154
+wikicat Cultural organizations	155
+wikicat American people	156
+wikicat People associated with places	157
+wikicat Middle Eastern people	158
+wordnet organization 108008335	159
+wikicat New York media people	160
+wordnet abstraction 100002137	161
+wikicat 21st-century singers	162
+wikicat Financial services companies	163
+wikicat Financial services companies based in New York City	164
+@BeerMe613 @BlueJacketsNHL oh my goodness. Praying for you.		165
+wikicat Wikipedia categories named after companies	166
+wikicat People	167
+wikicat North American people of Asian descent	168
+wikicat American music people	169
+wikicat Organizations based in New York	170
+wikicat Companies based in New York	171
+wikicat Cultural media	172
+wikicat Former places	173
+wikicat Singers from New York	174
+wikicat Ice hockey leagues	175
+wikicat Musicians from New York	176
+wikicat American female rock singers	177
+wikicat Shopping districts and streets	178
+wikicat Suicide methods	179
+wikicat Actresses from New York	180
+wikicat Actors from Connecticut	181
+wikicat American pop pianists	182
+wikicat National Historic Sites in Ontario	183
+wikicat Oceanian people	184
+wikicat Objects	185
+wikicat 2012 singles	186
+wikicat Self-regulatory organizations	187
+wikicat People from Washington	188
+wordnet composer 109947232	189
+wikicat 21st-century musicians	190
+wikicat People from Georgia (U.S. state)	191
+wikicat Soft rock musicians	192
+wikicat Organizations	193
+wikicat Actresses from New York City	194
+wikicat People from North Carolina	195
+California	196
+wordnet location 100027167	197
+wikicat Populated places in Canada	198
+wikicat Shopping districts and streets in Canada	199
+wikicat Keyboardists	200
+wikicat 20th-century North American people	201
+wikicat People from New York	202
+Worlds of Wonder (toy company)	203
+wikicat Jewish American musicians	204
+wikicat African people	205
+@BlueJacketsNHL terrorist shot honoured soldier		206
+wikicat Sports leagues in North America	207
+wikicat American television actors	208
+wordnet method 105660268	209
+wikicat People from Missouri	210
+wikicat Jewish musicians	211
+wikicat Central business districts in Canada	212
+wordnet medium 106254669	213
+wikicat States and territories established in 1776	214
+wikicat Municipal parks in Canada	215
+wikicat North American people	216
+wordnet area 108497294	217
+wikicat Television actresses	218
+wikicat Modern people	219
+wikicat Hills of Canada	220
+wikicat 21st-century American people	221
+wordnet adult 109605289	222
+wikicat Historic sites in Canada	223
+wikicat Sports organisations established in the 1910s	224
+wikicat Pianists	225
+wikicat Urban public parks in Canada	226
+wikicat Organizations based in San Francisco	227
+wikicat Asian people	228
+wikicat Organizations based in Alameda County	229
+wikicat 21st-century American actors	230
+wikicat Heritage sites in Ontario	231
+wikicat Countries in Oceania	232
+wikicat Female rock singers	233
+wordnet folk singer 110099093	234
+wikicat People from Connecticut	235
+@BlueJacketsNHL you guys continue to be the class act of all NHL teams on twitter. Keep it up.		236
+wikicat 21st-century North American people	237
+wikicat Information technology companies	238
+wikicat Female musicians	239
+wikicat Film people	240
+wordnet living thing 100004258	241
+wikicat 21st-century American musicians	242
+wikicat English-speaking countries and territories	243
+wikicat High-technology business districts	244
+wikicat RCA Records artists	245
+wordnet object 100002684	246
+wikicat Interscope-Geffen-A&M artists	247
+wikicat People from Greater Boston	248
+wikicat American pop singers	249
+wikicat Service companies	250
+wikicat Singers from New Jersey	251
+wordnet ability 105616246	252
+wikicat Defunct organizations	253
+wikicat Social media	254
+United States	255
+wikicat People from Wisconsin	256
+wikicat People from Florida	257
+wordnet physical entity 100001930	258
+wikicat 21st-century actresses	259
+wikicat People from Nevada	260
+wikicat American entertainers	261
+wordnet site 108651247	262
+wikicat Ice hockey leagues in Canada	263
+wikicat Session musicians	264
+wikicat American actors	265
+wikicat 20th-century actors	266
+wikicat Composers	267
+@abbyoneil13 @BlueJacketsNHL shootings around and in our parliament buildings. Scary situation downtown right now.		268
+wikicat Grammy Lifetime Achievement Award winners	269
+wikicat Rock musicians	270
+wikicat Internet-related organizations	271
+wikicat Administrative divisions	272
+wikicat Parks in Ontario	273
+wikicat 20th-century actresses	274
+wordnet cognition 100023271	275
+wikicat People from Essex County	276
+wikicat People from Hawaii	277
+wikicat 21st-century American actresses	278
+wikicat Priority Records artists	279
+wikicat Sports leagues in Canada	280
+wikicat Service companies of the United States	281
+wikicat Actresses	282
+wordnet natural elevation 109366317	283
+wikicat Actors from the New York metropolitan area	284
+wikicat American pianists	285
+wikicat Sports leagues established in 1917	286
+wikicat United States	287
+wikicat American film people	288
+wikicat American voice actors	289
+wikicat People of Asian descent	290
+wordnet league 108231184	291
+wikicat Pop pianists	292
+wikicat Film actors	293
+wordnet social group 107950920	294
+wikicat Parks in the Americas	295
+Oh My Goodness	296
+wikicat Defunct companies of the United States	297
+wikicat People from South Carolina	298
+wikicat West Asian people	299
+wikicat American female musicians	300
+wikicat Professional sports leagues	301
+wordnet section 108648322	302
+Downtown Ottawa	303
+wikicat People from West Virginia	304
+wikicat Female singers	305
+wikicat Companies disestablished in 1990	306
+wikicat Companies of the United States	307
+yagoLegalActorGeo	308
+wordnet woman 110787470	309
+wikicat Musicians from the New York metropolitan area	310
+wikicat People of Southwest Asian descent	311
+wikicat People from Rhode Island	312
+wikicat People from South Dakota	313
+wikicat Physical objects	314
+wikicat Award winners	315
+wikicat Towns	316
+wikicat People from New Jersey	317
+wikicat Folk singers	318
+wordnet know-how 105616786	319
+owl:Thing	320
+wikicat People from Texas	321
+New Jersey	322
+wikicat 20th-century American musicians	323
+wordnet memorial 103743902	324
+wordnet instrumentality 103575240	325
+wikicat People from Kentucky	326
+wikicat American singers	327
+wikicat People in arts occupations	328
+wikicat People from Kansas	329
+wikicat People from Colorado	330
+wikicat Organizations based in the United States	331
+wordnet actress 109767700	332
+wikicat People from the New York metropolitan area	333
+wikicat Rock singers	334
+wikicat 20th-century singers	335
+wikicat Art media	336
+wikicat Computer network organizations	337
+wikicat Countries	338
+wikicat Entertainers from New York City	339
+wikicat American composers	340
+wikicat Film actresses	341
+wikicat 21st-century American singers	342
+wikicat Municipalities in Ontario	343
+wikicat Ice hockey leagues in the United States	344
+wikicat People from Iowa	345
+wikicat Media people	346
+wordnet urban area 108675967	347
+wordnet manufacturer 108060446	348
+wikicat Member states of the United Nations	349
+wordnet pianist 110430665	350
+wikicat Grammy Award winners	351
+wikicat People from the Pacific Northwest	352
+wordnet park 108615149	353
+yagoLegalActor	354
+wikicat Parks in North America	355
+wikicat Organisms	356
+wikicat Companies based in Fremont	357
+wikicat Sports organisations established in the 20th century	358
+wikicat 21st-century actors	359
+wikicat People from Manhattan	360
+wikicat People from Michigan	361
+wikicat Companies established in 1980	362
+wordnet country 108544813	363
+wikicat Defunct companies	364
+wordnet entertainer 109616922	365
+wikicat Rock music people	366
+wikicat People from New York City	367
+wikicat People from Virginia	368
+wikicat Networking companies	369
+wikicat A&M Records artists	370
+wikicat Appalachian people	371
+wikicat Financial services companies of the United States	372
+wikicat Songwriters from New York	373
+wikicat Music award winners	374
+Execution by firing squad	375
+wikicat People from Brooklyn	376
+wordnet tract 108673395	377
+wikicat Entertainment companies	378
+wikicat People from California	379
+wikicat Digital media	380
+wikicat Municipalities in Canada	381
+wikicat Sony BMG artists	382
+Soldier	383
+wikicat Neighbourhoods in Canada	384
+wikicat People from Ohio	385
+wikicat Actors	386
+wikicat Companies	387
+wikicat People from Long Island	388
+wordnet creator 109614315	389
+wikicat Pop singers	390
+wikicat People from Maryland	391
+wikicat North American actors	392
+wikicat Professional sports leagues in the United States	393
+wikicat Parks	394
+wikicat Musicians from New Jersey	395
+wikicat Sports leagues	396
+wikicat People from Illinois	397
+wikicat Voice actresses	398
+wikicat Organizations based in North America	399
+wikicat Asian musicians	400
+wikicat Information technology organisations	401
+wikicat Organizations of the Americas	402
+wikicat Wikipedia categories named after financial services companies	403
+wikicat Historic sites	404
+wikicat Execution methods	405
+wikicat People from Idaho	406
+wikicat 21st-century people	407
+wikicat American soul singers	408
+wikicat American rock musicians	409
+wikicat Professional sports leagues in Canada	410
+wikicat American actresses	411
+wikicat People from Minnesota	412
+wikicat Songwriters	413
+wikicat Actors from New Jersey	414
+wordnet geographical area 108574314	415
+wikicat Organizations based in Fremont	416
+wikicat People from Mississippi	417
+wikicat American female singers	418
+wikicat Sports organisations	419
+wordnet person 100007846	420
+wikicat Toy companies of the United States	421
+wikicat People from Arizona	422
+wordnet artifact 100021939	423
+wikicat Wikipedia categories named after organizations	424
+Carole King	425
+@BlueJacketsNHL thank you 😘 reasons why I love the usa 🇺🇸🍁		426
+Terrorism	427
+wikicat Folk musicians	428
+wikicat Voice actors	429
+wikicat Business services companies	430
+wikicat Living people	431
+wikicat 2010s singles	432
+wikicat American rock singers	433
+wordnet district 108552138	434
+wikicat Wikipedia categories named after organizations based in North America	435
+wikicat Companies based in New York City	436
+wordnet contestant 109613191	437
+wikicat Cities in North America	438
+wordnet hockey league 108232603	439
+wikicat American keyboardists	440
+wordnet seat 108647945	441
+wikicat People from New Hampshire	442
+wikicat Information technology companies of the United States	443
+wikicat People of Middle Eastern descent	444
+wordnet company 108058098	445
+wordnet town 108665504	446
+wordnet administrative district 108491826	447
+wikicat Neighbourhoods in Ontario	448
+wikicat Defunct toy manufacturers	449
+wikicat American soul musicians	450
+wordnet institution 108053576	451
+wikicat Musicians from New York City	452
+wikicat Exercise organizations	453
+wordnet vicinity 108641113	454
+wikicat Toy companies	455
+wikicat Neighbourhoods in Ottawa	456
+wordnet city 108524735	457
+wikicat Women	458
+wikicat Arts award winners	459
+wikicat 20th-century American people	460
+Parliament Hill	461
+wikicat High-technology business districts in Canada	462
+wikicat Musicians from Brooklyn	463
+wikicat Hills	464
+wikicat 20th-century musicians	465
+wikicat 20th-century American singers	466
+wikicat Populated places in the Americas	467
+wikicat Manufacturing companies of the United States	468
+wikicat Economy-related organizations	469
+wordnet center 108523483	470
+wikicat Organizations established in the 20th century	471
+wikicat Companies based in Alameda County	472
+yagoPermanentlyLocatedEntity	473
+wikicat American soft rock musicians	474
+wikicat People from Nebraska	475
+wikicat Cities	476
+wikicat Soul musicians	477
