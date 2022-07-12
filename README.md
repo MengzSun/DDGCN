@@ -31,3 +31,33 @@ DDGCN
 
 
 ```
+# Dependencies
+
+Our code runs with the following packages installed:
+```
+python 3.6
+torch 1.3.1
+nltk 3.2.5
+tqdm
+numpy
+pandas
+matplotlib
+scikit_learn
+xlrd (pip install xlrd)
+```
+
+
+
+# Run
+
+Train and test,
+```
+python train_dynamic.py --dataset pheme --model completed --cuda 1 --batch 32 --epoch 5 --lr 0.001
+```
+
+
+
+# Citation
+If you make advantage of our model in your research, please cite the following in your manuscript:
+```
+```
