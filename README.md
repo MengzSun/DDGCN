@@ -11,24 +11,24 @@ DDGCN
 |   ├── *.py 
 |   └── model_saved
 |        └── ckpt_nn.model
-└───data
-    └── pheme
-         ├── all-rnr-annotated-threads
-         │   ├── ebola-essien-all-rnr-threads
-         │   ├── charliehebdo-all-rnr-threads
-             ├── ......
-         │   └── sydneysiege-all-rnr-threads
-         ├── pheme_clean
-         ├── pheme_concept_yago
-         ├── pheme_entity
-         ├── pheme_temporal_data
-         ├── mid2text.txt
-         ├── mid2token.csv
-         ├── node2idx.txt
-         ├── node2idx_mid.txt
-         ├── node2idx_test.txt
-         └── pheme_id_label.txt
-
+├── data
+|   └── pheme
+|        ├── all-rnr-annotated-threads
+|        │   ├── ebola-essien-all-rnr-threads
+|        │   ├── charliehebdo-all-rnr-threads
+|            ├── ......
+|        │   └── sydneysiege-all-rnr-threads
+|        ├── pheme_clean
+|        ├── pheme_concept_yago
+|        ├── pheme_entity
+|        ├── pheme_temporal_data
+|        ├── mid2text.txt
+|        ├── mid2token.csv
+|        ├── node2idx.txt
+|        ├── node2idx_mid.txt
+|        ├── node2idx_test.txt
+|        └── pheme_id_label.txt
+└── requirement.txt
 
 ```
 # Dependencies
@@ -36,16 +36,21 @@ DDGCN
 Our code runs with the following packages installed:
 ```
 python 3.6
-torch 1.3.1
-nltk 3.2.5
+torch 1.4.0+cu100
+torch-cluster 1.5.2
+torch-geometric 1.7.2
+torch-scatter 2.0.3
+torch-sparse 0.5.1
 tqdm
 numpy
 pandas
 matplotlib
 scikit_learn
-xlrd (pip install xlrd)
 ```
-
+install the environment with 
+```
+pip install -r requirement.txt
+```
 
 
 # Run
