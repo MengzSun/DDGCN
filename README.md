@@ -1,4 +1,7 @@
 # DDGCN
+Code for the AAAI 2022 paper "[DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media](https://www.aaai.org/AAAI22Papers/AAAI-6370.SunM.pdf)"
+
+
 
 Make sure the following files are present as per the directory structure before running the code,
 ```
@@ -31,6 +34,10 @@ DDGCN
 └── requirement.txt
 
 ```
+pheme_clean, pheme_concept_yago, pheme_entity and pheme_temporal_data these four folders are packed into a zip file, and can be obtained from https://www.dropbox.com/s/xwn5dvqgx2n2vsd/pheme_peocessed_data.zip?dl=0.
+The Raw Pheme dataset can be obtained from https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078 (or https://www.dropbox.com/s/j8x105s60ow997f/all-rnr-annotated-threads.zip?dl=0)
+
+
 # Dependencies
 
 Our code runs with the following packages installed:
@@ -47,10 +54,12 @@ pandas
 matplotlib
 scikit_learn
 ```
-install the environment with 
+
+install the virtual environment with 
 ```
 pip install -r requirement.txt
 ```
+
 
 
 # Run
@@ -61,8 +70,3 @@ python train_dynamic.py --dataset pheme --model completed --cuda 1 --batch 32 --
 ```
 
 
-
-# Citation
-If you make advantage of our model in your research, please cite the following in your manuscript:
-```
-```
